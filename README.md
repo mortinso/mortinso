@@ -1,3 +1,5 @@
+<h1 align="center"><img src="https://media.giphy.com/media/LYRSRTWa9oD8fdvV4C/giphy.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp; oh hi there &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/LYRSRTWa9oD8fdvV4C/giphy.gif" width="50"></h1>
+<br>
 <p align="center">
 
 <a href="https://discordapp.com/users/398214603915395082">
