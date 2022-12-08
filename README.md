@@ -30,9 +30,11 @@
 <summary><b>My Stats</b></summary>
 <p align="center">
 <br>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WudDoo&theme=tokyonight">
+<a href="https://github.com/WudDoo?tab=repositories">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WudDoo&theme=tokyonight">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WudDoo&theme=tokyonight">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WudDoo&theme=tokyonight">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WudDoo&theme=tokyonight">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WudDoo&theme=tokyonight">
+</a>
 </p>
 </details>
