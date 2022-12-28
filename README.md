@@ -3,14 +3,11 @@
 <p align="center">
 
 <a href="https://discordapp.com/users/398214603915395082">
-    <img src="https://img.shields.io/badge/Discord-7289da?style=flat&logo=discord&logoColor=white">
-</a>
+    <img src="https://img.shields.io/badge/Discord-7289da?style=flat&logo=discord&logoColor=white"></a>
 <a href="mailto:martimbettencourtlf@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D44638?style=flat&logo=gmail&logoColor=white">
-</a>
+    <img src="https://img.shields.io/badge/Email-D44638?style=flat&logo=gmail&logoColor=white"></a>
 <a href="https://open.spotify.com/user/maertimfaria">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white">
-</a>
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white"></a>
 <br>
 <a href="https://github.com/WudDoo">
     <img src="https://github-stats-alpha.vercel.app/api?username=WudDoo&cc=25292e&tc=febcea&ic=fff&bc=000">
