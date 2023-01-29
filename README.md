@@ -15,10 +15,17 @@
 </p>
 
 * 🎓 Learning C @ [42 Lisboa](https://www.42lisboa.com/en/curriculum/).
-* 📖 Self-teaching basic Python.
 * 🧠 Open to learning more.
 
+
 <p align="center">
+    
+<!--
+https://badge42.vercel.app
+<a href="https://github.com/WudDoo"><img src="https://badge42.vercel.app/api/v2/cldhq40yp00460fmej0h7m4vg/stats?cursusId=21&coalitionId=111" alt="mortins-'s 42 stats" /></a>
+<br>
+-->
+    
 <a href="https://open.spotify.com/user/maertimfaria">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=maertimfaria&cover_image=true&theme=novatorem&show_offline=false&background_color=25292e&bar_color=f7b5e3&bar_color_cover=false" width="500">
 </a>
@@ -30,7 +37,9 @@
 <a href="https://github.com/WudDoo?tab=repositories">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WudDoo&theme=tokyonight">
     <br>
+<!--
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WudDoo&theme=tokyonight"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WudDoo&theme=tokyonight">
+-->
 </a>
 </p>
 </details>
