@@ -22,6 +22,7 @@
     
 
 https://badge42.vercel.app
+
 <a href="https://github.com/WudDoo"><img src="https://badge42.vercel.app/api/v2/cldhq40yp00460fmej0h7m4vg/stats?cursusId=21&coalitionId=111" alt="mortins-'s 42 stats" /></a>
 <br>
 -->
