@@ -14,13 +14,13 @@
 </a>
 </p>
 
-* 🎓 Learning C @ [42 Lisboa](https://www.42lisboa.com/en/curriculum/).
+* 🎓 Student @ [42 Lisboa](https://www.42lisboa.com/en/curriculum/).
 * 🧠 Open to learning more.
 
 
 <p align="center">
     
-<!--
+
 https://badge42.vercel.app
 <a href="https://github.com/WudDoo"><img src="https://badge42.vercel.app/api/v2/cldhq40yp00460fmej0h7m4vg/stats?cursusId=21&coalitionId=111" alt="mortins-'s 42 stats" /></a>
 <br>
