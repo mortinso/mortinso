@@ -9,7 +9,7 @@
 <a href="https://open.spotify.com/user/maertimfaria">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white"></a>
 <br>
-<a href="https://github.com/WudDoo">
+<a href="https://github-stats-alpha.vercel.app/api?username=WudDoo&cc=25292e&tc=febcea&ic=fff&bc=000">
     <img src="https://github-stats-alpha.vercel.app/api?username=WudDoo&cc=25292e&tc=febcea&ic=fff&bc=000">
 </a>
 </p>
