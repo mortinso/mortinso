@@ -34,8 +34,8 @@ https://badge42.vercel.app
 <summary><b>My Stats</b></summary>
 <p align="center">
 <br>
-<a href="https://github.com/WudDoo?tab=repositories">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WudDoo&theme=tokyonight">
+<a href="https://github.com/mortinso?tab=repositories">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mortinso&theme=tokyonight">
     <br>
 <!--
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WudDoo&theme=tokyonight"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WudDoo&theme=tokyonight">
