@@ -9,8 +9,8 @@
 <a href="https://open.spotify.com/user/maertimfaria">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white"></a>
 <br>
-<a href="https://github-stats-alpha.vercel.app/api?username=WudDoo&cc=25292e&tc=febcea&ic=fff&bc=000">
-    <img src="https://github-stats-alpha.vercel.app/api?username=WudDoo&cc=25292e&tc=febcea&ic=fff&bc=000">
+<a href="https://github-stats-alpha.vercel.app/api?username=mortinso&cc=25292e&tc=febcea&ic=fff&bc=000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=mortinso&cc=25292e&tc=febcea&ic=fff&bc=000">
 </a>
 </p>
 
@@ -34,11 +34,11 @@ https://badge42.vercel.app
 <summary><b>My Stats</b></summary>
 <p align="center">
 <br>
-<a href="https://github.com/mortinso?tab=repositories">
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mortinso&theme=tokyonight">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mortinso&theme=tokyonight">
     <br>
 <!--
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WudDoo&theme=tokyonight"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WudDoo&theme=tokyonight">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mortinso&theme=tokyonight"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mortinso&theme=tokyonight">
 -->
 </a>
 </p>
