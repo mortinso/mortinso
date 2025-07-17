@@ -1,8 +1,10 @@
 <p align="center">
 <a href="https://discordapp.com/users/398214603915395082">
-    <img src="https://img.shields.io/badge/Discord-7289da?style=flat&logo=discord&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="mailto:martimbettencourtlf@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D44638?style=flat&logo=gmail&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/martimbett">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"> </a>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=mortinso&show_icons=true&theme=material-palenight">
 </p>
