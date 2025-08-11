@@ -35,7 +35,7 @@ Software developer graduated from 42 Lisboa. I love learning and problem-solving
 ![Linux](https://img.shields.io/badge/Linux-293137?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-293137?style=for-the-badge&logoSize=auto&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0ODc1IiBoZWlnaHQ9IjQ4NzUiPjxwYXRoIGZpbGw9IiMwMDc4ZDQiIGQ9Ik0wIDBoMjMxMXYyMzEwSDB6bTI1NjQgMGgyMzExdjIzMTBIMjU2NHpNMCAyNTY0aDIzMTF2MjMxMUgwem0yNTY0IDBoMjMxMXYyMzExSDI1NjQiLz48L3N2Zz4=)
 
-<p align="center">
+<!-- <p align="center">
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=mortinso&show_icons=true&theme=material-palenight" alt="Github Stats">
-</p>
+</p> -->
